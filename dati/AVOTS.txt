@@ -1,0 +1,8 @@
+Datu kopa: Air Quality
+Autors: Saverio Vito (2008)
+Avots: https://archive.ics.uci.edu/dataset/360/air+quality
+DOI: https://doi.org/10.24432/C59K5F
+Lejupielādes datums: 2026-11-23
+Oriģinālais fails: AirQualityUCI.csv (izvilkts no UCI arhīva bez izmaiņām)
+UCI norādītā licence: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+UCI datu aprakstā arī norādīts, ka dati paredzēti pētniecībai.
